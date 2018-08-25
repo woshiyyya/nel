@@ -18,6 +18,7 @@ NEL is open-source software released under an MIT licence.
 
 想用别人的轮子真的是困难，在gpu18上新开账号，记录配置过程
 # 从头开始配置nel
+OS：Ubuntu 16.04LTS
 ## 1.安装anaconda3
 下载anaconda3 （https://www.anaconda.com/download/#linux）
 ```
